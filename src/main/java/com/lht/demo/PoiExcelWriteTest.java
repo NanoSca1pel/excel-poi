@@ -16,7 +16,7 @@ import java.io.FileOutputStream;
  * @author lhtao
  * @date 2020/6/4 15:42
  */
-public class ExcelWriteTest {
+public class PoiExcelWriteTest {
 
     private static final String PATH = "C:\\Users\\Administrator\\Desktop\\";
 
